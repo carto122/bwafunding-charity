@@ -178,9 +178,9 @@
 
             <span class="xs-separetor"></span>
 
-            <button on:click={handleButton} data-toggle="modal" data-target="#exampleModal" class="btn btn-primary btn-block">
+            <a href="/donation/{Charity.id}" data-toggle="modal" data-target="#exampleModal" class="btn btn-primary btn-block">
               Donate This Cause
-            </button>
+            </a>
           </div>
               <!-- .xs-item-content END -->
             </div>
