@@ -194,16 +194,3 @@
   <!-- .container end -->
 </section>
 <!-- End popularCauses section -->
-
-<!-- <div>
-  <h2>Daftar Charity</h2>
-  {#if charities !== undefined}
-    <ul>
-      {#each charities as Charity}
-        <li>{Charity.title}- {Charity.category}</li>
-      {/each}
-    </ul>
-  {:else}
-    <h5>Data Belum tersedia</h5>
-  {/if}
-</div> -->

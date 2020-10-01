@@ -114,7 +114,7 @@
 <!--breadcumb start here-->
 <section
   class="xs-banner-inner-section parallax-window"
-  style="background-image:url('assets/images/contact_bg.png')">
+  style="background-image:url('/assets/images/contact_bg.png')">
   <div class="xs-black-overlay" />
   <div class="container">
     <div class="color-white xs-inner-banner-content">
@@ -122,7 +122,7 @@
       <p>Give a helping hand for poor people</p>
       <ul class="xs-breadcumb">
         <li class="badge badge-pill badge-primary">
-          <a href="index.html" class="color-white"> Home /</a>
+          <a href="/" class="color-white"> Home /</a>
           Contact
         </li>
       </ul>
