@@ -1,7 +1,11 @@
 <!-- welcome section -->
 <section class="xs-welcome-slider">
   <div class="">
+<<<<<<< HEAD
     <div class="xs-welcome-content" style="background-image: url(assets/images/slider/slide1.png);">
+=======
+    <div class="xs-welcome-content" style="background-image: url(assets/images/slide1.png);">
+>>>>>>> 63a5657c5d5164f84b3876aef956c214966c655e
       <div class="container">
         <div class="xs-welcome-wraper color-white">
           <h2>Hunger is stalking the globe</h2>
